@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02FFD2&center=verdadero&vCenter=verdadero&width=600&height=100&lines=Hola%2C+Soy+Andr%C3%A9s!+💣💥;Desarrollador+de+Software+<+/+>+💻📱🎮;Me+gusta+aprender+nuevas+cosas🧠🎓;y+perfeccionarlas+a+tope!!🎯🎯🎯;)](https://git.io/typing-svg)
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/Z4ND3RX) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-ocampo-737211220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:www.linkedin.com/in/andrés-mauricio-ocampo-arenas-737211220)
 
 ```js
 import SoftwareDeveloper from 'Z4ND3RX';
