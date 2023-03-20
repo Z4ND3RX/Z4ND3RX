@@ -17,7 +17,7 @@ class Bio extends SoftwareDeveloper {
 }
 class Skills extends SoftwareDeveloper {
   ProgrammingLanguages  = ['Java','JavaScript', 'css', 'PHP', 'Python', 'HTML5', 'Kotlin'];
-  databases  = ['MySQL', 'Sql Developer', 'TMDB'];
+  databases  = ['MySQL', 'Sql Developer'];
   frameworks = ['Flask', 'DJango', 'Springboot', 'Bootstrap'];
   libraries = ['Thymeleaf', 'jQuery', 'React'];
   AdobeTools = ['XD', 'Illustrator', 'CS', 'Premiere'];
