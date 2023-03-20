@@ -13,10 +13,10 @@ class Bio extends SoftwareDeveloper {
   University  = 'I.U. EAM';
   location = 'COL';
   languages = ['Español', 'Inglés Técnico'];
-  interests = ['Programación', 'Administración de bases de datos', 'Ciberseguridad', 'Testing']
+  interests = ['Programación', 'Administración de bases de datos', 'Ciberseguridad', 'Testing', 'Desarrollo de Videojuegos']
 }
 class Skills extends SoftwareDeveloper {
-  ProgrammingLanguages  = ['Java','JavaScript', 'css', 'PHP', 'Python', 'HTML5', 'Kotlin'];
+  ProgrammingLanguages  = ['Java','JavaScript', 'css', 'PHP', 'Python', 'HTML5', 'C#', 'Kotlin'];
   databases  = ['MySQL', 'Sql Developer'];
   frameworks = ['Flask', 'DJango', 'Springboot', 'Bootstrap'];
   libraries = ['Thymeleaf', 'jQuery', 'React'];
