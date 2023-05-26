@@ -1,7 +1,7 @@
-<h3>Bienvenido a mi Github</h3>
+<h3>Welcome to my Github</h3>
 <img align='right' src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="230">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02FFD2&center=verdadero&vCenter=verdadero&width=600&height=100&lines=Hola%2C+Soy+Andr%C3%A9s!+💣💥;Desarrollador+de+Software+<+/+>+💻📱🎮;Me+gusta+aprender+nuevas+cosas🧠🎓;y+perfeccionarlas+a+tope!!🎯🎯🎯;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02FFD2&center=verdadero&vCenter=verdadero&width=600&height=100&lines=Hola%2C+Soy+Andr%C3%A9s!+💣💥;Software+Developer+<+/+>+💻📱🎮;I+like+learning+new+things🧠🎓;and+to+perfect+them+to+the+max!!🎯🎯🎯;)](https://git.io/typing-svg)
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/Z4ND3RX)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Z4ND3RX) ![Gmail Badge](https://img.shields.io/badge/-ocampo.andres.7804@eam.edu.co-EE0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ocampo.andres.7804@eam.edu.co) ![Gmail Badge](https://img.shields.io/badge/andresmauricioocampo2@gmail.com-EE0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andresmauricioocampo2@gmail.com)
 
@@ -9,11 +9,11 @@
 import SoftwareDeveloper from 'Z4ND3RX';
 class Bio extends SoftwareDeveloper {
   name     = 'Andrés Ocampo';
-  title    = 'Estudiante 6to semestre de Ing. de Software';
+  title    = 'Software engineering student - 7th Semester';
   University  = 'I.U. EAM';
   location = 'COL';
-  languages = ['Español', 'Inglés Técnico'];
-  interests = ['Programación', 'Administración de bases de datos', 'Ciberseguridad', 'Testing', 'Desarrollo de Videojuegos']
+  languages = ['Spanish (Native)', 'Technical English'];
+  interests = ['Programming', 'Database Administration', 'Cybersecurity', 'Testing', 'Videogames development', 'Android development']
 }
 class Skills extends SoftwareDeveloper {
   ProgrammingLanguages  = ['Java','JavaScript', 'css', 'PHP', 'Python', 'HTML5', 'C#', 'Kotlin'];
@@ -21,7 +21,8 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['Flask', 'DJango', 'Springboot', 'Bootstrap'];
   libraries = ['Thymeleaf', 'jQuery', 'React'];
   AdobeTools = ['XD', 'Illustrator', 'CS', 'Premiere'];
-  Others=['Canva', 'Ofimática Básica', 'Lottie.js'];
+  Others = ['Canva', 'Advanced Office automation', 'Lottie.js', 'JWT', 'XML', 'APIs Consumption'];
+  AgileFrameworksMethodologies = ['SCRUM fundamentals'];
 }
 ```
 
