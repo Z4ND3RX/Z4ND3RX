@@ -1,7 +1,7 @@
 <h3>Welcome to my Github</h3>
 <img align='right' src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="230">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02FFD2&center=verdadero&vCenter=verdadero&width=600&height=100&lines=Hi,%2C+I'm+Andr%C3%A9s!+💣💥;Software+Developer+<+/+>+💻📱🎮;I+like+learning+new+things🧠🎓;and+to+perfect+them+to+the+max!!🎯🎯🎯;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02FFD2&center=verdadero&vCenter=verdadero&width=600&height=100&lines=Hi%2C+I'm+Andr%C3%A9s!+💣💥;Software+Developer+<+/+>+💻📱🎮;I+like+learning+new+things🧠🎓;and+to+perfect+them+to+the+max!!🎯🎯🎯;)](https://git.io/typing-svg)
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/Z4ND3RX)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Z4ND3RX) ![Gmail Badge](https://img.shields.io/badge/-ocampo.andres.7804@eam.edu.co-EE0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ocampo.andres.7804@eam.edu.co) ![Gmail Badge](https://img.shields.io/badge/andresmauricioocampo2@gmail.com-EE0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andresmauricioocampo2@gmail.com)
 
