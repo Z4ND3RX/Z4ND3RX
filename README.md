@@ -22,7 +22,7 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['Flask', 'DJango', 'Springboot', 'Bootstrap'];
   libraries = ['Thymeleaf', 'jQuery', 'React'];
   AdobeTools = ['XD', 'Illustrator', 'CS', 'Premiere'];
-  Others = ['Canva', 'Advanced Office automation', 'Lottie.js', 'JWT', 'XML', 'APIs Consumption'. 'Firebase'];
+  Others = ['Canva', 'Advanced Office automation', 'Lottie.js', 'JWT', 'XML', 'APIs Consumption', 'Firebase', 'NodeJS'];
   AgileFrameworksMethodologies = ['SCRUM fundamentals'];
   Cloud = ['OCI fundamentals']
 }
