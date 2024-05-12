@@ -13,16 +13,16 @@ class Bio extends SoftwareDeveloper {
   University  = 'I.U. EAM';
   location = 'COL';
   languages = ['Spanish (Native)', 'Technical English'];
-  interests = ['Programming', 'Database Administration', 'Cybersecurity', 'Testing', 'Videogames development', 'Android development', 'DevOps']
+  interests = ['Programming', 'Database Administration', 'Cybersecurity', 'Testing', 'Videogames development', 'DevOps']
 }
 class Skills extends SoftwareDeveloper {
-  ProgrammingLanguages  = ['Java','JavaScript', 'css', 'PHP', 'Python', 'HTML5', 'TypeScript', 'C#', 'Kotlin'];
-  databases  = ['MySQL', 'Sql Developer', 'PostgreSQL'];
+  ProgrammingLanguages  = ['Java','JavaScript', 'PHP', 'TypeScript'];
+  databases  = ['MySQL', 'PostgresQL'];
   videoGameDevelopment = ['Unity']
   frameworks = ['Springboot', 'Angular'];
   libraries = ['Thymeleaf', 'jQuery', 'React'];
   AdobeTools = ['XD', 'Illustrator', 'CS', 'Premiere'];
-  Others = ['Canva', 'Advanced Office automation', 'Lottie.js', 'JWT', 'XML', 'APIs Consumption', 'Firebase', 'NodeJS'];
+  Others = ['Advanced Office automation', 'Lottie.js', 'JWT', 'XML', 'APIs Consumption', 'Firebase', 'NodeJS'];
   AgileFrameworksMethodologies = ['SCRUM fundamentals'];
   Cloud = ['OCI fundamentals']
 }
@@ -40,7 +40,6 @@ class Skills extends SoftwareDeveloper {
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
